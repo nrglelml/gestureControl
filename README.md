@@ -96,6 +96,7 @@ Uygulama açılınca kamera görüntüsü penceresi açılır. Elinizi kameraya 
 ---
 
 ## El Hareketi Komutları
+<img width="792" height="544" alt="bilgisayarElKontrolHareketHaritası" src="https://github.com/user-attachments/assets/d4614e37-398f-42ae-ab7c-55cfd7207791" />
 
 ### Sol El
 
